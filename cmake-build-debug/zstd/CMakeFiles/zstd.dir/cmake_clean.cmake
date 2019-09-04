@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/zstd.dir/decompress/zstd_decompress.c.o"
+  "CMakeFiles/zstd.dir/decompress/huf_decompress.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_lazy.c.o"
+  "CMakeFiles/zstd.dir/compress/zstdmt_compress.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_double_fast.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_fast.c.o"
+  "CMakeFiles/zstd.dir/compress/hist.c.o"
+  "CMakeFiles/zstd.dir/compress/fse_compress.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_opt.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_compress.c.o"
+  "CMakeFiles/zstd.dir/compress/huf_compress.c.o"
+  "CMakeFiles/zstd.dir/compress/zstd_ldm.c.o"
+  "CMakeFiles/zstd.dir/common/xxhash.c.o"
+  "CMakeFiles/zstd.dir/common/fse_decompress.c.o"
+  "CMakeFiles/zstd.dir/common/pool.c.o"
+  "CMakeFiles/zstd.dir/common/zstd_common.c.o"
+  "CMakeFiles/zstd.dir/common/error_private.c.o"
+  "CMakeFiles/zstd.dir/common/debug.c.o"
+  "CMakeFiles/zstd.dir/common/threading.c.o"
+  "CMakeFiles/zstd.dir/common/entropy_common.c.o"
+  "CMakeFiles/zstd.dir/deprecated/zbuff_compress.c.o"
+  "CMakeFiles/zstd.dir/deprecated/zbuff_decompress.c.o"
+  "CMakeFiles/zstd.dir/deprecated/zbuff_common.c.o"
+  "CMakeFiles/zstd.dir/dictBuilder/zdict.c.o"
+  "CMakeFiles/zstd.dir/dictBuilder/divsufsort.c.o"
+  "CMakeFiles/zstd.dir/dictBuilder/cover.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v03.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v07.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v06.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v01.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v02.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v04.c.o"
+  "CMakeFiles/zstd.dir/legacy/zstd_v05.c.o"
+  "../lib/libzstd.pdb"
+  "../lib/libzstd.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/zstd.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

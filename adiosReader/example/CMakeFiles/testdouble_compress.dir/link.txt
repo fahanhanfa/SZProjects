@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -lm -fopenmp -O3 -g  -rdynamic CMakeFiles/testdouble_compress.dir/testdouble_compress.c.o  -o ../bin/testdouble_compress -Wl,-rpath,/home/fahan/CLionProjects/SZ9/adiosReader/lib: ../lib/libSZ.so -lm ../lib/libzlib.so ../lib/libzstd.so 

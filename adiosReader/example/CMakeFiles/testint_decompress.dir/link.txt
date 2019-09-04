@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -lm -fopenmp -O3 -g  -rdynamic CMakeFiles/testint_decompress.dir/testint_decompress.c.o  -o ../bin/testint_decompress -Wl,-rpath,/home/fahan/CLionProjects/SZ9/adiosReader/lib: ../lib/libSZ.so -lm ../lib/libzlib.so ../lib/libzstd.so 

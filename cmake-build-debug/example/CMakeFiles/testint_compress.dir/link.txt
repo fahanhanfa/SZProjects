@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -lm -fopenmp -g  -rdynamic CMakeFiles/testint_compress.dir/testint_compress.c.o  -o ../bin/testint_compress -Wl,-rpath,/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib: ../lib/libSZ.so -lm ../lib/libzlib.so ../lib/libzstd.so 

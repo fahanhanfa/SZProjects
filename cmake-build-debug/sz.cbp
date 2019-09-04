@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sz"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\zlib\;CMake Files\zstd\;CMake Files\sz\;CMake Files\example\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tags">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 tags"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zlib">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libzlib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 zlib"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zlib/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libzlib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 zlib/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zstd">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libzstd.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 zstd"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zstd/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libzstd.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 zstd/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SZ">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libSZ.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 SZ"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SZ/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/lib/libSZ.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 SZ/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sz">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/sz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 sz"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sz/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/sz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 sz/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testint_decompress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testint_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testint_decompress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testint_decompress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testint_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testint_decompress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testint_compress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testint_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testint_compress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testint_compress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testint_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testint_compress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfloat_decompress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testfloat_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testfloat_decompress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfloat_decompress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testfloat_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testfloat_decompress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfloat_compress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testfloat_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testfloat_compress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfloat_compress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testfloat_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testfloat_compress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testdouble_compress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testdouble_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testdouble_compress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testdouble_compress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testdouble_compress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testdouble_compress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testdouble_decompress">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testdouble_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testdouble_decompress"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testdouble_decompress/fast">
+				<Option output="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin/testdouble_decompress" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/fahan/CLionProjects/SZ9/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/fahan/CLionProjects/SZ9/sz/include"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zlib"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/common"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/compress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/decompress"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/deprecated"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/dll"/>
+					<Add directory="/home/fahan/CLionProjects/SZ9/zstd/legacy"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 testdouble_decompress/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/fahan/CLionProjects/SZ9/cmake-build-debug/example/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/sz.c">
+			<Option target="sz"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testdouble_compress.c">
+			<Option target="testdouble_compress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testdouble_decompress.c">
+			<Option target="testdouble_decompress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testfloat_compress.c">
+			<Option target="testfloat_compress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testfloat_decompress.c">
+			<Option target="testfloat_decompress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testint_compress.c">
+			<Option target="testint_compress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/testint_decompress.c">
+			<Option target="testint_decompress"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/ArithmeticCoding.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/ByteToolkit.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/CompressElement.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/DynamicByteArray.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/DynamicDoubleArray.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/DynamicFloatArray.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/DynamicIntArray.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/Huffman.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageD.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageF.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageI.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/TypeManager.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/VarSet.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/callZlib.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/conf.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/dataCompression.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/dictionary.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/iniparser.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/pastri.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/rw.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/rwf.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_cuda.cu">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_double.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_double_pwr.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_double_ts.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_float.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_float_pwr.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_float_ts.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_int16.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_int32.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_int64.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_int8.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_omp.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_opencl.cc">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_uint16.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_uint32.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_uint64.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/sz_uint8.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_double.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_double_pwr.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_double_ts.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_float.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_float_pwr.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_float_ts.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_int16.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_int32.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_int64.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_int8.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_uint16.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_uint32.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_uint64.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szd_uint8.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/szf.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/src/utility.c">
+			<Option target="SZ"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/adler32.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/compress.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/crc32.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/crc32.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/deflate.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/deflate.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/gzclose.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/gzlib.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/gzread.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/gzwrite.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/infback.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inffast.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inffast.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inflate.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inflate.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inftrees.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/inftrees.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/trees.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/trees.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/uncompr.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/zutil.c">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/zutil.h">
+			<Option target="zlib"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/debug.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/debug.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/entropy_common.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/error_private.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/error_private.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/fse_decompress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/pool.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/pool.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/threading.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/threading.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/xxhash.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/xxhash.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/common/zstd_common.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/fse_compress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/hist.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/hist.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/huf_compress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_compress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_double_fast.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_double_fast.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_fast.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_fast.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_lazy.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_lazy.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_ldm.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_ldm.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_opt.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_opt.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstdmt_compress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/compress/zstdmt_compress.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/decompress/huf_decompress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/decompress/zstd_decompress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_common.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_compress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_decompress.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/cover.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/divsufsort.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/divsufsort.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/zdict.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/zdict.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v01.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v01.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v02.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v02.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v03.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v03.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v04.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v04.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v05.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v05.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v06.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v06.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v07.c">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v07.h">
+			<Option target="zstd"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zlib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\zlib\"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/zstd/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\zstd\"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/sz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\sz\"/>
+		</Unit>
+		<Unit filename="/home/fahan/CLionProjects/SZ9/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,547 @@
+[
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/adler32.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/adler32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/adler32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/compress.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/crc32.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/crc32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/crc32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/deflate.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/deflate.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/deflate.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/gzclose.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/gzclose.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/gzclose.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/gzlib.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/gzlib.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/gzlib.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/gzread.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/gzread.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/gzread.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/gzwrite.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/gzwrite.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/gzwrite.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/infback.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/infback.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/infback.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/inffast.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/inffast.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/inffast.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/inflate.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/inflate.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/inflate.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/inftrees.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/inftrees.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/inftrees.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/trees.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/trees.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/trees.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/uncompr.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/uncompr.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/uncompr.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zlib",
+  "command": "/usr/bin/cc -Dzlib_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zlib.dir/zutil.c.o   -c /home/fahan/CLionProjects/SZ9/zlib/zutil.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zlib/zutil.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/decompress/zstd_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/decompress/zstd_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/decompress/zstd_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/decompress/huf_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/decompress/huf_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/decompress/huf_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_lazy.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_lazy.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_lazy.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstdmt_compress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstdmt_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstdmt_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_double_fast.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_double_fast.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_double_fast.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_fast.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_fast.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_fast.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/hist.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/hist.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/hist.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/fse_compress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/fse_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/fse_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_opt.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_opt.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_opt.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_compress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/huf_compress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/huf_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/huf_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/compress/zstd_ldm.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/compress/zstd_ldm.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/compress/zstd_ldm.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/xxhash.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/xxhash.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/xxhash.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/fse_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/fse_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/fse_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/pool.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/pool.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/pool.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/zstd_common.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/zstd_common.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/zstd_common.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/error_private.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/error_private.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/error_private.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/debug.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/debug.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/debug.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/threading.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/threading.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/threading.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/common/entropy_common.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/common/entropy_common.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/common/entropy_common.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/deprecated/zbuff_compress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/deprecated/zbuff_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/deprecated/zbuff_common.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_common.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/deprecated/zbuff_common.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/dictBuilder/zdict.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/dictBuilder/zdict.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/zdict.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/dictBuilder/divsufsort.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/dictBuilder/divsufsort.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/divsufsort.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/dictBuilder/cover.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/dictBuilder/cover.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/dictBuilder/cover.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v03.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v03.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v03.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v07.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v07.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v07.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v06.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v06.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v06.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v01.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v01.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v01.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v02.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v02.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v02.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v04.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v04.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v04.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/zstd",
+  "command": "/usr/bin/cc -Dzstd_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -o CMakeFiles/zstd.dir/legacy/zstd_v05.c.o   -c /home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v05.c",
+  "file": "/home/fahan/CLionProjects/SZ9/zstd/legacy/zstd_v05.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/ArithmeticCoding.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/ArithmeticCoding.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/ArithmeticCoding.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/ByteToolkit.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/ByteToolkit.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/ByteToolkit.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/CompressElement.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/CompressElement.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/CompressElement.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/DynamicByteArray.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/DynamicByteArray.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/DynamicByteArray.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/DynamicDoubleArray.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/DynamicDoubleArray.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/DynamicDoubleArray.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/DynamicFloatArray.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/DynamicFloatArray.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/DynamicFloatArray.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/DynamicIntArray.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/DynamicIntArray.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/DynamicIntArray.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/Huffman.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/Huffman.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/Huffman.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/TightDataPointStorageD.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageD.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageD.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/TightDataPointStorageF.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageF.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageF.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/TightDataPointStorageI.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageI.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/TightDataPointStorageI.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/TypeManager.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/TypeManager.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/TypeManager.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/VarSet.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/VarSet.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/VarSet.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/callZlib.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/callZlib.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/callZlib.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/conf.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/conf.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/conf.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/dataCompression.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/dataCompression.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/dataCompression.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/dictionary.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/dictionary.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/dictionary.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/iniparser.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/iniparser.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/iniparser.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/pastri.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/pastri.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/pastri.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/rw.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/rw.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/rw.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/rwf.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/rwf.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/rwf.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_double.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_double.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_double.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_double_pwr.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_double_pwr.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_double_pwr.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_double_ts.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_double_ts.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_double_ts.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_float.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_float.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_float.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_float_pwr.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_float_pwr.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_float_pwr.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_float_ts.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_float_ts.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_float_ts.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_int16.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_int16.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_int16.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_int32.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_int32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_int32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_int64.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_int64.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_int64.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_int8.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_int8.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_int8.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_omp.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_omp.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_omp.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/c++  -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -std=c++14 -o CMakeFiles/SZ.dir/src/sz_opencl.cc.o -c /home/fahan/CLionProjects/SZ9/sz/src/sz_opencl.cc",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_opencl.cc"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_uint16.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_uint16.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_uint16.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_uint32.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_uint32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_uint32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_uint64.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_uint64.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_uint64.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/sz_uint8.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/sz_uint8.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/sz_uint8.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_double.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_double.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_double.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_double_pwr.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_double_pwr.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_double_pwr.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_double_ts.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_double_ts.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_double_ts.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_float.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_float.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_float.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_float_pwr.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_float_pwr.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_float_pwr.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_float_ts.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_float_ts.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_float_ts.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_int16.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_int16.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_int16.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_int32.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_int32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_int32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_int64.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_int64.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_int64.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_int8.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_int8.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_int8.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_uint16.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_uint16.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_uint16.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_uint32.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_uint32.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_uint32.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_uint64.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_uint64.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_uint64.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szd_uint8.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szd_uint8.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szd_uint8.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/szf.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/szf.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/szf.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/sz",
+  "command": "/usr/bin/cc -DSZ_EXPORTS -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g -fPIC   -Wall -Wextra -Wpedantic -Wno-unused-parameter -o CMakeFiles/SZ.dir/src/utility.c.o   -c /home/fahan/CLionProjects/SZ9/sz/src/utility.c",
+  "file": "/home/fahan/CLionProjects/SZ9/sz/src/utility.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/sz.dir/sz.c.o   -c /home/fahan/CLionProjects/SZ9/example/sz.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/sz.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testint_decompress.dir/testint_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testint_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testint_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testint_compress.dir/testint_compress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testint_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testint_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testfloat_decompress.dir/testfloat_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testfloat_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testfloat_decompress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testfloat_compress.dir/testfloat_compress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testfloat_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testfloat_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testdouble_compress.dir/testdouble_compress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testdouble_compress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testdouble_compress.c"
+},
+{
+  "directory": "/home/fahan/CLionProjects/SZ9/cmake-build-debug/example",
+  "command": "/usr/bin/cc  -I/home/fahan/CLionProjects/SZ9/sz/include -I/home/fahan/CLionProjects/SZ9/zlib -I/home/fahan/CLionProjects/SZ9/zstd -I/home/fahan/CLionProjects/SZ9/zstd/common -I/home/fahan/CLionProjects/SZ9/zstd/compress -I/home/fahan/CLionProjects/SZ9/zstd/decompress -I/home/fahan/CLionProjects/SZ9/zstd/deprecated -I/home/fahan/CLionProjects/SZ9/zstd/dictBuilder -I/home/fahan/CLionProjects/SZ9/zstd/dll -I/home/fahan/CLionProjects/SZ9/zstd/legacy   -std=c99 -lm -fopenmp -g   -o CMakeFiles/testdouble_decompress.dir/testdouble_decompress.c.o   -c /home/fahan/CLionProjects/SZ9/example/testdouble_decompress.c",
+  "file": "/home/fahan/CLionProjects/SZ9/example/testdouble_decompress.c"
+}
+]

@@ -1,0 +1,21 @@
+/media/fahan/Work/clion-2018.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/fahan/CLionProjects/SZ9
+CMake Warning at CMakeLists.txt:19 (find_package):
+  By not providing "FindFFTW.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "FFTW", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "FFTW" with any of
+  the following names:
+
+    FFTWConfig.cmake
+    fftw-config.cmake
+
+  Add the installation prefix of "FFTW" to CMAKE_PREFIX_PATH or set
+  "FFTW_DIR" to a directory containing one of the above files.  If "FFTW"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fahan/CLionProjects/SZ9/cmake-build-debug
